@@ -1,3 +1,4 @@
+#imprimindo os tipos de variaveis.
 a = 2
 print(type(a))
 # Output: <type 'int'>
