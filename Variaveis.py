@@ -1,3 +1,4 @@
+#Entendo as variaveis.
 # Integer
 a = 2
 print(a)
