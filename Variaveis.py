@@ -22,7 +22,7 @@ print(c)
 
 name = 'Gabriel'
 print(name)
-# Output: John Doe
+# Output: Gabriel
 # Boolean 
 
 q = True
